@@ -4,7 +4,26 @@ theme = "anatole"
 enableEmoji = true
 
 [params]
-title = "Maria Eriksson - PhD Researcher"
+title = "Maria Eriksson"
 author = "MariaEriksson"
-description = "Website for Maria Eriksson, created with Hugo"
+description = "PhD researcher at UCL Institute of Child Health and Great Ormond Street Hospital"
+profilePicture = "images/profile_pic.png"
 
+[menu]
+  [[menu.main]]
+  name = "About me"
+  identifier = "about"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Work"
+  weight = 200
+  identifier = "work"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 300
+  identifier = "posts"
+  url = "/about/"
