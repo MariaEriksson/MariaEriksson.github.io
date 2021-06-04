@@ -1,0 +1,10 @@
+baseURL = "https://MariaEriksson.github.io/"
+languageCode = "en-gb"
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "Maria Eriksson - PhD Researcher"
+author = "MariaEriksson"
+description = "Website for Maria Eriksson, created with Hugo"
+
