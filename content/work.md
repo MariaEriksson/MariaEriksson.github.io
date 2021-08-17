@@ -22,6 +22,8 @@ Poster Presentation, The Academy of Medical Sciences: The Developing Brain in He
 Oral Presentation, British Paediatric Neurology Association Conference, London, UK, March 2018
 
 ## Awards
+GOSH BRC Junior Faculty Conference & Training Support, July 2021 (£150)
+
 Junior Investigator Award, International Epilepsy Colloquium, May 2021 (€500)
 
 1st Prize for Poster Presentation, November 2020 (£150)
@@ -43,7 +45,7 @@ Research Software Engineering Training Course, The Alan Turing Institute, Januar
 
 NHS-R Community Conference & Workshop, November 2020 (5 days)
 
-UCL Research Scholarship for Cross-Disciplinary Training, October 2020 - October 2021. If you would like to read more about this training, please head over to these blog posts.
+UCL Research Scholarship for Cross-Disciplinary Training, October 2020 (1 year)
 
 ## Research Mentorship
 I have acted as primary supervisor for one BSc. Psychology thesis (Saarland University, Germany, 2020-21) and as secondary supervisor for three MSc. Paediatric Neuropsychology theses (UCL Institute of Child Health, UK, 2019-20).
