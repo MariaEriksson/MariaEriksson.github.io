@@ -7,7 +7,7 @@ draft: false
 ## Conferences & Talks
 Oral Presentation, 34th International Epilepsy Congress, Virtual, August 2021
 
-Oral Presentation, Great Ormond Street Hospital Neurosciences Research Group, Virtual, June 2021
+Oral Presentation, Great Ormond Street Hospital Neurosciences Group, Virtual, June 2021
 
 Poster Presentation, International Epilepsy Colloquium, Virtual, May 2021
 
