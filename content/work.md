@@ -5,6 +5,10 @@ draft: false
 ---
 
 ## Invited Talks & Conferences
+Oral Presentation, Young Epilepsy Research Retreat, Virtual, January 2022
+
+Oral Presentation, UCL Cognitive Neuroscience and Neuropsychiatry Section, Virtual, December 2021
+
 Oral Presentation, 34th International Epilepsy Congress, Virtual, August 2021
 
 Oral Presentation, Great Ormond Street Hospital Neurosciences Group, Virtual, June 2021
