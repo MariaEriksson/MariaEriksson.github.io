@@ -30,6 +30,8 @@ Poster Presentation, The Academy of Medical Sciences: The Developing Brain in He
 Oral Presentation, British Paediatric Neurology Association Conference, London, UK, March 2018
 
 ## Awards
+14th European Epilepsy Congress Bursary, March 2022 (€600)
+
 GOSH BRC Junior Faculty Conference & Training Support, July 2021 (£150)
 
 Junior Investigator Award, International Epilepsy Colloquium, May 2021 (€500)
