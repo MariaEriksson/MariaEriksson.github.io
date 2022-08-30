@@ -5,6 +5,8 @@ draft: false
 ---
 
 ## Invited Talks & Conferences
+Poster Presentation, 14th European Epilepsy Congress, Geneva, Switzerland, July 2022
+
 Oral Presentation, Young Epilepsy Research Retreat, Virtual, January 2022
 
 Oral Presentation, UCL Cognitive Neuroscience and Neuropsychiatry Section, Virtual, December 2021
@@ -30,6 +32,8 @@ Poster Presentation, The Academy of Medical Sciences: The Developing Brain in He
 Oral Presentation, British Paediatric Neurology Association Conference, London, UK, March 2018
 
 ## Awards
+1st Prize for Poster Presentation, July 2022
+
 14th European Epilepsy Congress Bursary, March 2022 (€600)
 
 GOSH BRC Junior Faculty Conference & Training Support, July 2021 (£150)
@@ -51,9 +55,11 @@ UCL Child Health Research PhD Studentship, October 2018 (£52,464)
 UCL Institute of Child Health Postgraduate Scholarship, September 2016-2017 (£3,000)
 
 ## Training
+Medical Image Computing Summer School, University College London, July 2022 (1 week)
+
 Research Software Engineering Training Course, The Alan Turing Institute, January 2021 (2 weeks)
 
-NHS-R Community Conference & Workshop, November 2020 (5 days)
+NHS-R Community Conference & Workshop, November 2020 (1 week)
 
 UCL Research Scholarship for Cross-Disciplinary Training, October 2020 (1 year)
 
