@@ -42,7 +42,7 @@ Junior Investigator Award, International Epilepsy Colloquium, May 2021 (€500)
 
 1st Prize for Poster Presentation, November 2020 (£150)
 
-UCL Research Scholarship for Cross-Disciplinary Training, October 2020 (£17,285)
+UCL Research Scholarship for Cross-Disciplinary Training, October 2020 (£20,000)
 
 The Guarantors of Brain Travel Grant, May 2019 (£600)
 
