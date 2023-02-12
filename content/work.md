@@ -5,6 +5,10 @@ draft: false
 ---
 
 ## Invited Talks & Conferences
+Oral Presentation, British Paediatric Neurology Association Conference, Edinburgh, UK, January 2023
+
+Oral Presentation, Young Epilepsy Research Retreat, Virtual, January 2023
+
 Poster Presentation, 14th European Epilepsy Congress, Geneva, Switzerland, July 2022
 
 Oral Presentation, Young Epilepsy Research Retreat, Virtual, January 2022
