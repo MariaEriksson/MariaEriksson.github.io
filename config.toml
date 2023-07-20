@@ -25,6 +25,6 @@ fullPostContent = "true"
 
   [[menu.main]]
   name = "Publications"
-  weight = 300
+  weight = 200
   identifier = "publications"
   url = "/publications/"
