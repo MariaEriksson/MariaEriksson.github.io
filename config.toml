@@ -22,3 +22,9 @@ fullPostContent = "true"
   weight = 200
   identifier = "work"
   url = "/work/"
+
+  [[menu.main]]
+  name = "Publications"
+  weight = 300
+  identifier = "publications"
+  url = "/publications/"
