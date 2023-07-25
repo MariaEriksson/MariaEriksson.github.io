@@ -58,6 +58,18 @@ UCL Child Health Research PhD Studentship, October 2018 (£52,464)
 
 UCL Institute of Child Health Postgraduate Scholarship, September 2016-2017 (£3,000)
 
+## Research Mentorship
+Primary supervisor, BSc. Psychology (Saarland University, Germany, 2020-21) 
+
+Primary supervisor, MSc. Paediatric Neuropsychology (UCL Institute of Child Health, UK, 2019-20)
+
+Secondary supervisor, MSc. Paediatric Neuropsychology (UCL Institute of Child Health, UK, 2019-20)
+
+Secondary supervisor, MSc. Paediatric Neuropsychology (UCL Institute of Child Health, UK, 2019-20)
+
+## Peer Review
+Journal of Neurology, Neurosurgery and Psychiatry
+
 ## Training
 Medical Image Computing Summer School, University College London, July 2022 (1 week)
 
@@ -67,6 +79,4 @@ NHS-R Community Conference & Workshop, November 2020 (1 week)
 
 UCL Research Scholarship for Cross-Disciplinary Training, October 2020 (1 year)
 
-## Research Mentorship
-I have acted as primary supervisor for one BSc. Psychology thesis (Saarland University, Germany, 2020-21) and as secondary supervisor for three MSc. Paediatric Neuropsychology theses (UCL Institute of Child Health, UK, 2019-20).
 
