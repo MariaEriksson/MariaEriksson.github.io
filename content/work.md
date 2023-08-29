@@ -50,7 +50,7 @@ UCL Research Scholarship for Cross-Disciplinary Training, October 2020 (£20,000
 
 The Guarantors of Brain Travel Grant, May 2019 (£600)
 
-Organization of Human Brain Mapping Hackathon Award, April 2019 ($500)
+Organization for Human Brain Mapping Hackathon Award, April 2019 ($500)
 
 UCL Child Health Research PhD Studentship, October 2018 (£52,464)
 
