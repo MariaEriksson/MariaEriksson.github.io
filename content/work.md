@@ -5,6 +5,8 @@ draft: false
 ---
 
 ## Invited Talks & Conferences
+Oral Presentation, Young Epilepsy Research Retreat, Crawley, UK, January 2024
+
 Oral Presentation, British Paediatric Neurology Association Conference, Edinburgh, UK, January 2023
 
 Oral Presentation, Young Epilepsy Research Retreat, Crawley, UK, January 2023
@@ -36,6 +38,8 @@ Poster Presentation, The Academy of Medical Sciences: The Developing Brain in He
 Oral Presentation, British Paediatric Neurology Association Conference, London, UK, March 2018
 
 ## Awards
+Fellowship, Sigrid Jusélius Stiftelse, December 2023 (€70,000)
+
 1st Prize for Poster Presentation, July 2022
 
 14th European Epilepsy Congress Bursary, March 2022 (€600)
