@@ -38,6 +38,8 @@ Poster Presentation, The Academy of Medical Sciences: The Developing Brain in He
 Oral Presentation, British Paediatric Neurology Association Conference, London, UK, March 2018
 
 ## Awards
+Abstract award, Vaajasalon Säätiö, March 2024 (€2,000)
+
 Fellowship, Sigrid Jusélius Stiftelse, December 2023 (€70,000)
 
 1st Prize for Poster Presentation, July 2022
