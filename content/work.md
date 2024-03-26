@@ -5,6 +5,8 @@ draft: false
 ---
 
 ## Invited Talks & Conferences
+Oral Presentation, Kuopio Epilepsy Symposium, Kuopio, Finland, March 2024
+
 Oral Presentation, Young Epilepsy Research Retreat, Crawley, UK, January 2024
 
 Oral Presentation, British Paediatric Neurology Association Conference, Edinburgh, UK, January 2023
