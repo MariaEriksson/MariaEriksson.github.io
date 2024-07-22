@@ -71,13 +71,15 @@ UCL Child Health Research PhD Studentship, October 2018 (£52,464)
 UCL Institute of Child Health Postgraduate Scholarship, September 2016-2017 (£3,000)
 
 ## Research Mentorship
+Secondary supervisor, MSci. Neuroscience (UCL GOS ICH, UK, 2023-24)
+
 Primary supervisor, BSc. Psychology (Saarland University, Germany, 2020-21) 
 
-Primary supervisor, MSc. Paediatric Neuropsychology (UCL Institute of Child Health, UK, 2019-20)
+Primary supervisor, MSc. Paediatric Neuropsychology (UCL GOS ICH, UK, 2019-20)
 
-Secondary supervisor, MSc. Paediatric Neuropsychology (UCL Institute of Child Health, UK, 2019-20)
+Secondary supervisor, MSc. Paediatric Neuropsychology (UCL GOS ICH, UK, 2019-20)
 
-Secondary supervisor, MSc. Paediatric Neuropsychology (UCL Institute of Child Health, UK, 2019-20)
+Secondary supervisor, MSc. Paediatric Neuropsychology (UCL GOS ICH, UK, 2019-20)
 
 ## Peer Review
 Journal of Neurology, Neurosurgery and Psychiatry
