@@ -40,6 +40,10 @@ Poster Presentation, The Academy of Medical Sciences: The Developing Brain in He
 Oral Presentation, British Paediatric Neurology Association Conference, London, UK, March 2018
 
 ## Awards
+The Guarantors of Brain Travel Grant, July 2024 (£600)
+
+UCL Developmental Neurosciences Travel Grant, July 2024 (£250)
+
 Abstract award, Vaajasalon Säätiö, March 2024 (€2,000)
 
 Fellowship, Sigrid Jusélius Stiftelse, December 2023 (€70,000)
