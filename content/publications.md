@@ -6,7 +6,7 @@ draft: false
 
 ## Publications
 
-**Eriksson, Maria**; Prentice, Freya; Piper, Rory; et al. Long-term neuropsychological trajectories in children with epilepsy: does surgery halt decline? Brain. 2024; Epub ahead of print. doi: https://doi.org/10.1093/brain/awae121.
+**Eriksson, Maria**; Prentice, Freya; Piper, Rory; et al. Long-term neuropsychological trajectories in children with epilepsy: Does surgery halt decline? Brain. 2024; Epub ahead of print. doi: https://doi.org/10.1093/brain/awae121.
 
 Piper, Rory; Dasgupta, Debayan; **Eriksson, Maria**; et al. Extent of piriform cortex resection in children with temporal lobe epilepsy. Ann Clin Transl Neurol. 2023; Epub ahead of print. doi: https://doi.org/10.1002/acn3.51852.
 
